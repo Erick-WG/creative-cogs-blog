@@ -1,2 +1,2 @@
-# code_your_feels
-This repository is for sharing code that expresses and manages emotions. This could be an app, website, or tool that uses technology to support mental wellness. Submissions are open to any programming language. The deadline for submissions is May 26, 2023. 
+# Crea
+ This is a Blog app that is setup to sign up users who can create and edit blog posts with the aim of creating a mental awareness site for the benefit of  
