@@ -8,10 +8,10 @@
 *The Blog app is where the views are controled from kindof like the home page for our app, it defines the views of the home page, articles view and many more cool features.
 
 ## Some features i'd like to include in the future.
-_Commenting on posts_
-_adding a profile image_
-_specifying individual user actions_, rn everyone has equal power as one can delete other's post but i'll specify that only the admin does that.
-_profile photos beside user's blog_, rn only the name is included as an identifyer for user's post.
+_Commenting on posts_, 
+_adding a profile image_, 
+_specifying individual user actions_, " rn everyone has equal power as one can delete other's post but i'll specify that only the admin does that. " , 
+_profile photos beside user's blog_, " rn only the name is included as an identifyer for user's post. "
 
 
 # I hope you enjoy the app.
