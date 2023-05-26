@@ -1,7 +1,7 @@
 ## Creative cogs blog App.
  This is a Blog app that is setup to sign up users who can create and edit blog posts with the aim of creating a mental awareness site for the benefit of humanity...my philanthropic piece 😆😂
- 
- 
+
+
 ## Understanding the files.
 *Blog_Project contains the main files for the whole app. while the file inside it that has the same name is the main file for the settings and all configs for the app.
 *The Members app controls the users sign-up, sign-in, and sign-out mechanisms and collects user data to be connected to the database.
