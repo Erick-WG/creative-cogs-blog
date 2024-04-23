@@ -9,6 +9,13 @@ from .models import Category, Post
 from django.urls import reverse_lazy
 
 
+'''The views have been built to follow the CRUD operations in building apps
+    C- Create 'The view class ['AddCategoryView','AddPostView'] both are under C'
+    R- Read 'The view class  '
+    U- Update
+    D- Delete
+'''
+
 class HomeView(ListView):
     model = Post
     template_name = "home.html"
@@ -19,7 +26,7 @@ class ArticleView(DetailView):
     model = Post
     template_name = "article.html"
 
-# creating views from the browser.
+# creating views from the browser. (using our custom forms to add data in our db)
 class AddPostView(CreateView):
     model = Post
     form_class = PostForm
@@ -35,6 +42,8 @@ class AddCategoryView(CreateView):
     # specifying the form fields. they can also be custom made.
     fields = "__all__"
 
+
+# Updating the view.
 class UpdatePost(UpdateView):
     model = Post
     template_name = "update_post.html"
